@@ -35,6 +35,6 @@ console.log(result);
 __University:__ Gdansk University of Technology
 
 
- Experience
+ ## Experience
 
 #### English level - A2
