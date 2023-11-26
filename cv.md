@@ -37,4 +37,4 @@ __University:__ Gdansk University of Technology
 
  ## Experience
 
-#### English level - A2
+#### English level - B2
